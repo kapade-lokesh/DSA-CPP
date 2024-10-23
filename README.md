@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <--for loop quesstions -->
 1. print numbers from 1 to 200 
 2. print alphabates from 'a' to 'z'
@@ -12,3 +13,6 @@
 9. factorial of a number 
 10. check number is prime or not 
 11. fibbonaci series
+=======
+# DSA-CPP
+>>>>>>> 9ca00b843dcbad423c6825ff6423fa9cb11bc87b
