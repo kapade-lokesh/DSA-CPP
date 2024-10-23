@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <--for loop quesstions -->
 1. print numbers from 1 to 200 
 2. print alphabates from 'a' to 'z'
