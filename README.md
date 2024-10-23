@@ -13,10 +13,4 @@
 8. sum of square of n natural numbers
 9. factorial of a number 
 10. check number is prime or not 
-11. fibbonaci series
-=======
-# DSA-CPP
->>>>>>> 9ca00b843dcbad423c6825ff6423fa9cb11bc87b
-=======
-# DSA-CPP
->>>>>>> 9ca00b843dcbad423c6825ff6423fa9cb11bc87b
+11. fibbonaci series.
