@@ -33,4 +33,4 @@
      return max_water;
  
  }
- console.log(maxWater(array));
+ console.log(opmaxWater(array));
